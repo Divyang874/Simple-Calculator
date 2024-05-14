@@ -1,6 +1,6 @@
 SimpleCalculator	
 
-SimpleCalculator is a lightweight Python package that provides basic arithmetic operations. It offers a user-friendly interface for performing addition, subtraction, multiplication, and division.
+SimpleCalculator is a lightweight HTML ,CSS ans JS based project which provide basic arithmetic operations. It offers a user-friendly interface for performing addition, subtraction, multiplication, and division.
 
 Features
 Addition: Add two numbers together.
